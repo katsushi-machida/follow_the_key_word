@@ -16,7 +16,7 @@ Usage
 ========
 exec cmd
 ::
-  python follow_the_key_word\follow_the_key_word.py [URL] [keyword]`
+  python follow_the_key_word\follow_the_key_word.py [URL] [keyword]
 
 tests
 ========
